@@ -1,0 +1,18 @@
+
+
+objetivos:criar e editar doc planilha de gastos 
+	sobre cada gasto feito.
+
+parametros:nome_produto,kg ou unidade,preço por kg ou unidade,data do gasto,total.
+Adicionar interface de usuario com fields etc
+
+
+#adicionar dps
+imposto---
+
+gastos_normais---gas,agua,luz etc.
+#######################
+
+talvez exportar do arquivo de extrato do banco ?
+
+
